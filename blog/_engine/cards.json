@@ -1,0 +1,161 @@
+{
+  "source": "extracted from /Users/macv/dev/scv123.com/index.html (var cards array, lines 325-343)",
+  "extracted_at": "2026-05-13",
+  "site": "https://scv123.com",
+  "deck_title": "17 Things Your Agent May Not Tell You",
+  "cards": [
+    {
+      "id": 1,
+      "slug": "the-percentage-tradition",
+      "title": "The Percentage Tradition",
+      "hook": "Agents charge a percentage because the industry trained sellers to accept it. Not because the work scales with price. A $2M home does not require twice the effort of a $1M home.",
+      "verdict": "Fixed fee fixes this.",
+      "target_keyword": "real estate commission percentage",
+      "seo_meta_description": "Why do real estate agents charge a percentage of your home value? Not because the work scales. Because the industry trained you to accept it. $17,000 flat fixes this."
+    },
+    {
+      "id": 2,
+      "slug": "the-commission-slide",
+      "title": "The Commission Slide",
+      "hook": "The more your home is worth, the more the agent earns. The effort stays the same. The yard sign is the same size. The photos take the same time. Only your check gets bigger.",
+      "verdict": "$17,000. Every time.",
+      "target_keyword": "real estate commission on expensive home",
+      "seo_meta_description": "A $2M Santa Clarita home and a $700K one take the same work. So why does the commission double? The commission slide explained. $17,000 flat, every time."
+    },
+    {
+      "id": 3,
+      "slug": "dual-agency-conflict",
+      "title": "Dual Agency Conflict",
+      "hook": "When your agent also represents the buyer, who are they really fighting for? California allows it. 7 states have banned it. We never practice it.",
+      "verdict": "100% seller loyalty.",
+      "target_keyword": "dual agency real estate California",
+      "seo_meta_description": "California allows dual agency. 7 states have banned it. When your agent also represents the buyer, who wins? Sellers Only Agent never plays both sides."
+    },
+    {
+      "id": 4,
+      "slug": "the-repair-credit-trap",
+      "title": "The Repair Credit Trap",
+      "hook": "Buyer agents push for repair credits to close deals faster. Your agent should be pushing back, not caving to keep both sides happy.",
+      "verdict": "We negotiate for your net.",
+      "target_keyword": "repair credits after home inspection",
+      "seo_meta_description": "Repair credits after inspection are a negotiation, not a default. Most agents cave to close fast. We push back to defend your net proceeds. Santa Clarita seller strategy."
+    },
+    {
+      "id": 5,
+      "slug": "concession-creep",
+      "title": "Concession Creep",
+      "hook": "Closing cost credits. Home warranties. Termite work. Buyer agents stack concessions because your agent wants the deal done. Each one chips your equity.",
+      "verdict": "Every dollar defended.",
+      "target_keyword": "seller concessions California real estate",
+      "seo_meta_description": "Closing cost credits, home warranties, termite work. Each concession chips your equity. How buyer agents stack asks and how Sellers Only Agent defends every dollar."
+    },
+    {
+      "id": 6,
+      "slug": "the-cma-illusion",
+      "title": "The CMA Illusion",
+      "hook": "Comparative Market Analysis is a pricing tool, not a promise. Some agents inflate to win the listing, then push price reductions 30 days later.",
+      "verdict": "Honest pricing from day one.",
+      "target_keyword": "comparative market analysis Santa Clarita",
+      "seo_meta_description": "A CMA is a pricing tool, not a promise. Some agents inflate to win the listing, then push reductions 30 days later. Honest pricing from day one in SCV."
+    },
+    {
+      "id": 7,
+      "slug": "expired-listing-stigma",
+      "title": "Expired Listing Stigma",
+      "hook": "If your home sits too long, buyers assume something is wrong. Bad pricing, bad marketing, bad agent. The listing becomes damaged goods.",
+      "verdict": "We price it right the first time.",
+      "target_keyword": "expired listing Santa Clarita",
+      "seo_meta_description": "A home that sits too long becomes damaged goods. Buyers smell problems. The expired listing stigma is real, and the only fix is pricing right the first time."
+    },
+    {
+      "id": 8,
+      "slug": "photography-shortcuts",
+      "title": "Photography Shortcuts",
+      "hook": "iPhone photos in bad lighting. No staging advice. No twilight shots. Your listing competes with homes that look like magazine covers.",
+      "verdict": "Professional media. Every listing.",
+      "target_keyword": "real estate listing photography",
+      "seo_meta_description": "iPhone photos in bad lighting cost you buyers. Your listing competes with magazine covers. Professional photography, staging, and twilight shots on every listing."
+    },
+    {
+      "id": 9,
+      "slug": "syndication-neglect",
+      "title": "Syndication Neglect",
+      "hook": "Your listing auto-feeds to Zillow, Redfin, Realtor. Most agents never check if the data is correct, the photos are in order, or the description is optimized.",
+      "verdict": "Every platform reviewed and polished.",
+      "target_keyword": "Zillow Redfin listing syndication",
+      "seo_meta_description": "Zillow, Redfin, Realtor. Most agents never verify the data, photos, or description after syndication. We audit every platform. Your listing should look perfect everywhere."
+    },
+    {
+      "id": 10,
+      "slug": "the-kickback-network",
+      "title": "The Kickback Network",
+      "hook": "Some agents refer you to their preferred lender, inspector, or contractor because they get a referral fee. Not because they are the best option for you.",
+      "verdict": "Zero kickbacks. Zero conflicts.",
+      "target_keyword": "real estate agent referral kickback",
+      "seo_meta_description": "Why does your agent push that specific lender or inspector? Often, a referral fee. The kickback network costs you. We take zero kickbacks. Zero conflicts."
+    },
+    {
+      "id": 11,
+      "slug": "open-house-theater",
+      "title": "Open House Theater",
+      "hook": "Most open houses benefit the agent, not the seller. They collect buyer leads for their own business while your home is the bait.",
+      "verdict": "Our open houses serve your sale.",
+      "target_keyword": "open house lead generation real estate",
+      "seo_meta_description": "Open houses are buyer lead farms for agents. Your home is the bait. The agent walks away with leads, you walk away with nothing new. How we run them differently."
+    },
+    {
+      "id": 12,
+      "slug": "the-nar-settlement-shift",
+      "title": "The NAR Settlement Shift",
+      "hook": "Buyer agent commissions are no longer guaranteed. Sellers have more control than ever over what they offer and what they keep.",
+      "verdict": "We structure this strategically.",
+      "target_keyword": "NAR settlement buyer agent commission",
+      "seo_meta_description": "Post-NAR settlement, buyer agent commissions are negotiable, not guaranteed. Sellers have more control than ever. How to structure your offer strategically."
+    },
+    {
+      "id": 13,
+      "slug": "escrow-fee-bloat",
+      "title": "Escrow Fee Bloat",
+      "hook": "Document prep fees. Courier charges. Wire fees. Processing surcharges. Most sellers never question them. Most agents never read them.",
+      "verdict": "We audit every line item.",
+      "target_keyword": "escrow fees California real estate",
+      "seo_meta_description": "Document prep, courier, wire, processing surcharges. California escrow bills are stuffed with line items most sellers never question. We audit every charge."
+    },
+    {
+      "id": 14,
+      "slug": "the-6-percent-myth",
+      "title": "The 6% Myth",
+      "hook": "There was never a standard commission rate. That number was marketing, not regulation. You have always had the right to negotiate.",
+      "verdict": "Now you have a better option.",
+      "target_keyword": "6 percent real estate commission myth",
+      "seo_meta_description": "There was never a standard 6% commission. That number was marketing, not regulation. You always had the right to negotiate. Now you have a better option: $17,000 flat."
+    },
+    {
+      "id": 15,
+      "slug": "ai-powered-marketing",
+      "title": "AI-Powered Marketing",
+      "hook": "Most agents use the same MLS template. We build custom AI-optimized property sites, targeted social campaigns, and 24/7 inquiry handling.",
+      "verdict": "Technology that works for your sale.",
+      "target_keyword": "AI real estate marketing Santa Clarita",
+      "seo_meta_description": "MLS template marketing is a 2010 strategy. Custom AI-optimized property sites, targeted social, and 24/7 inquiry handling is 2026. Technology that works for your sale."
+    },
+    {
+      "id": 16,
+      "slug": "the-speed-vs-price-trap",
+      "title": "The Speed vs. Price Trap",
+      "hook": "Some agents push you to accept the first offer because a fast close means fast commission. Your patience is their enemy.",
+      "verdict": "We wait for the right offer.",
+      "target_keyword": "first offer real estate negotiation",
+      "seo_meta_description": "Your agent pushes you to accept the first offer. Why? A fast close means a fast commission. Your patience is their enemy. We wait for the right offer."
+    },
+    {
+      "id": 17,
+      "slug": "your-equity-is-not-a-tip",
+      "title": "Your Equity Is Not a Tip",
+      "hook": "Commission was never supposed to be a percentage of your life savings. It is payment for a service. And that service has a fixed cost.",
+      "verdict": "$17,000. That is the cost.",
+      "target_keyword": "real estate commission home equity",
+      "seo_meta_description": "Commission was never supposed to be a percentage of your life savings. It is payment for a service. That service has a fixed cost. $17,000. That is the cost."
+    }
+  ]
+}
