@@ -70,7 +70,7 @@ Use this exact H2 skeleton, in this order. Headlines are suggestions, but the fl
 3. **H2: Why this is hidden** (incentive map). Who benefits from the seller not knowing? Name the players. Brokerage, MLS, buyer agent, listing agent. Follow the money.
 4. **H2: What is actually happening** (the mechanics). Concrete examples. Specific numbers. SCV-local where possible. Use a `<div class="comparison">` two-column block if there is a clean traditional-vs-fixed-fee dollar comparison. Use a `<div class="savings-callout">` if there is one number that defines the takeaway.
 5. **H2: What to do about it** (the plan). Three to five concrete actions. Not "consider exploring." Specific moves. If the seller is interviewing agents, give them the questions. If they are signing a listing agreement, give them the clauses.
-6. **H2: Frequently Asked Questions** — 4 to 5 Q&A pairs. Wrap in `<div class="faq-section">...<div class="faq-item"><h3>Q</h3><p>A</p></div>...</div>`. These will be used for FAQPage schema. Include the target keyword naturally in at least one question.
+6. **H2: Frequently Asked Questions**. 4 to 5 Q&A pairs. Wrap in `<div class="faq-section">...<div class="faq-item"><h3>Q</h3><p>A</p></div>...</div>`. These will be used for FAQPage schema. Include the target keyword naturally in at least one question.
 
 ### Internal cross-links (required)
 
